@@ -1,7 +1,6 @@
 # python-quiz
 
-![Image of Python Quiz]
-(https://ashley.one/img/python-quiz.png)
+![Image of Python Quiz](https://ashley.one/img/python-quiz.png)
 
 A console-based quiz application written in Python.
 
